@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>The Vue Point</title>
+        <link>https://blog.vuejs.org</link>
+        <description>The official blog for the Vue.js project</description>
+        <lastBuildDate>Tue, 20 Feb 2024 04:02:10 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <image>
+            <title>The Vue Point</title>
+            <url>https://vuejs.org/images/logo.png</url>
+            <link>https://blog.vuejs.org</link>
+        </image>
+        <copyright>Copyright (c) 2021-present, Yuxi (Evan) You and blog contributors</copyright>
+        <item>
+            <title><![CDATA[Day Minus One]]></title>
+            <link>https://blog.vuejs.org/posts/00-init</link>
+            <guid>https://blog.vuejs.org/posts/00-init</guid>
+            <pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p>At this night before the trip, I stole a blogging site from <a href="https://blog.vuejs.org" target="_blank" rel="noreferrer">https://blog.vuejs.org</a>.<br>
+Finishing setting up the codebase, let's see what I can write in the following two weeks. 😃</p>
+]]></description>
+            <content:encoded><![CDATA[<p>At this night before the trip, I stole a blogging site from <a href="https://blog.vuejs.org" target="_blank" rel="noreferrer">https://blog.vuejs.org</a>.<br>
+Finishing setting up the codebase, let's see what I can write in the following two weeks. 😃</p>
+<hr>
+]]></content:encoded>
+        </item>
+    </channel>
+</rss>
