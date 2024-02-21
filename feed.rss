@@ -4,7 +4,7 @@
         <title>The Vue Point</title>
         <link>https://blog.vuejs.org</link>
         <description>The official blog for the Vue.js project</description>
-        <lastBuildDate>Tue, 20 Feb 2024 04:02:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 15:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -14,6 +14,28 @@
             <link>https://blog.vuejs.org</link>
         </image>
         <copyright>Copyright (c) 2021-present, Yuxi (Evan) You and blog contributors</copyright>
+        <item>
+            <title><![CDATA[3AM in the Hotel]]></title>
+            <link>https://blog.vuejs.org/posts/01-3am-in-the-hotel</link>
+            <guid>https://blog.vuejs.org/posts/01-3am-in-the-hotel</guid>
+            <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Due to my jet lag, I'm wide awake at 3AM. So I grabbed my camera and tried to look for something meaningful.</p>
+<p><img src="/img/01-3am-in-the-hotel/marriott.webp" alt=""></p>
+<blockquote>
+<p>Marriott hotel (obviously better than mine)</p>
+</blockquote>
+]]></description>
+            <content:encoded><![CDATA[<p>Due to my jet lag, I'm wide awake at 3AM. So I grabbed my camera and tried to look for something meaningful.</p>
+<p><img src="/img/01-3am-in-the-hotel/marriott.webp" alt=""></p>
+<blockquote>
+<p>Marriott hotel (obviously better than mine)</p>
+</blockquote>
+<hr>
+<p>Buildings here are plain but nice. Crystal clear glass windows are all over this place.</p>
+<p><img src="/img/01-3am-in-the-hotel/vc.webp" alt=""></p>
+<p>I guess most of them are office buildings but many of them are more or less lighten up. Vancouverite are hard-working people. That's why they call it <strong>No Fun City</strong>?</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Day Minus One]]></title>
             <link>https://blog.vuejs.org/posts/00-init</link>
