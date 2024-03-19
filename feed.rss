@@ -4,7 +4,7 @@
         <title>The Vue Point</title>
         <link>https://blog.vuejs.org</link>
         <description>The official blog for the Vue.js project</description>
-        <lastBuildDate>Wed, 21 Feb 2024 15:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 10:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -34,6 +34,52 @@
 <p>Buildings here are plain but nice. Crystal clear glass windows are all over this place.</p>
 <p><img src="/img/01-3am-in-the-hotel/vc.webp" alt=""></p>
 <p>I guess most of them are office buildings but many of them are more or less lighten up. Vancouverite are hard-working people. That's why they call it <strong>No Fun City</strong>?</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Capilano Suspension Bridge]]></title>
+            <link>https://blog.vuejs.org/posts/02-capilano</link>
+            <guid>https://blog.vuejs.org/posts/02-capilano</guid>
+            <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p>We took a free shuttle bus to the Capilano Suspension Bridge. The entrance ticket was not cheap, probably because it includes the bus fee.</p>
+<p><img src="/img/02-capilano/bridge.webp" alt=""></p>
+<blockquote>
+<p>Capilano Suspension Bridge (the only interesting thing in this spot)</p>
+</blockquote>
+]]></description>
+            <content:encoded><![CDATA[<p>We took a free shuttle bus to the Capilano Suspension Bridge. The entrance ticket was not cheap, probably because it includes the bus fee.</p>
+<p><img src="/img/02-capilano/bridge.webp" alt=""></p>
+<blockquote>
+<p>Capilano Suspension Bridge (the only interesting thing in this spot)</p>
+</blockquote>
+<hr>
+<p>TBD</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Edgemont Village]]></title>
+            <link>https://blog.vuejs.org/posts/03-edgemont-village</link>
+            <guid>https://blog.vuejs.org/posts/03-edgemont-village</guid>
+            <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Edgemont Village is a warm little town next to the Grouse Mountain. Stores there are nothing special, but for a foreigner like me, this warm vibe is pretty refreshing.</p>
+]]></description>
+            <content:encoded><![CDATA[<p>Edgemont Village is a warm little town next to the Grouse Mountain. Stores there are nothing special, but for a foreigner like me, this warm vibe is pretty refreshing.</p>
+<hr>
+<p>TBD</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Grouse Mountain]]></title>
+            <link>https://blog.vuejs.org/posts/04-grousemountain</link>
+            <guid>https://blog.vuejs.org/posts/04-grousemountain</guid>
+            <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p>We didn't ski.</p>
+<p><img src="/img/04-grousemountain/bear.webp" alt=""></p>
+]]></description>
+            <content:encoded><![CDATA[<p>We didn't ski.</p>
+<p><img src="/img/04-grousemountain/bear.webp" alt=""></p>
+<hr>
+<p>TBD</p>
 ]]></content:encoded>
         </item>
         <item>
